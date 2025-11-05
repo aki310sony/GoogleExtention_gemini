@@ -1,5 +1,8 @@
 # CSS Element Rotator Chrome Extension
 
+https://gdg-tokyo.connpass.com/event/362775/
+での制作物。
+
 これは、表示しているWebページ上の任意の要素を、CSSセレクターを使って指定し、CSSアニメーションで回転させることができるChrome拡張機能です。
 
 ## ファイル構成と役割
